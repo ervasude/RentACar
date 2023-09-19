@@ -5,6 +5,6 @@ namespace RentACar.Enum
 	{
         Damaged = 0,
         NotDamaged = 1
-    }
+        }
 }
 
